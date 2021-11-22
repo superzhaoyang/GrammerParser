@@ -1,0 +1,17 @@
+@#include<iostream>
+#include<string>
+using namespace std;
+double getNum( double a , double b ){
+    return a + b;
+}
+void print(){
+    cout << "hello world" << endl;
+}
+int main(){
+    cout << 5555<< " "<<78748 << endl;
+    double numa = 345.68888;
+    double numb = 678.2;
+    cout << getNum(numa,numb);
+    print();
+    return 0;
+}

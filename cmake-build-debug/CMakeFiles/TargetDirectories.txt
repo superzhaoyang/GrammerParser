@@ -1,0 +1,3 @@
+D:/CodeRegion/ClionProjects/compiler/cmake-build-debug/CMakeFiles/testproject.dir
+D:/CodeRegion/ClionProjects/compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeRegion/ClionProjects/compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
